@@ -1,10 +1,10 @@
 # Belova Svetlana
 
 ### Contact information:
-    **Residence:**   Saratov  
-    **telephone:**   +7-917-980-5629
+**Residence:**   Saratov  
+**Telephone:**   +7-917-980-5629
     
-    **E-mail:**     belovasw@gmail.com
+**E-mail:**     belovasw@gmail.com
 
 ### About me:
     Implementation and administration of the system "TechCard". User training.Maintaining database.
