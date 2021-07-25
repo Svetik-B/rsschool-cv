@@ -1,2 +1,1 @@
-# rsschool-cv
-https://Svetik-B.github.io/rsschool-cv/cv
+https://github.com/Svetik-B/rsschool-cv/tree/gh-pages
